@@ -6,7 +6,7 @@ I'm passionate about the data ecosystem, focusing on designing scalable, fault-t
 
 I have hands-on experience building end-to-end projects using Python, SQL (PostgreSQL), Apache Airflow for orchestration and AWS. Currently, I am expanding my skill set by diving into Big Data ecosystems with Apache Spark and Databricks.
 
-:envelope: Here is my Linkedin profile "[Lucio Calabro](https://www.linkedin.com/in/luciocalabro)" 
+:envelope: Here is my Linkedin profile [Lucio Calabro](https://www.linkedin.com/in/luciocalabro) 
 
 
 ---
