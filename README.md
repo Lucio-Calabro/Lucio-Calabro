@@ -32,5 +32,5 @@ I have hands-on experience building end-to-end projects using Python, SQL (Postg
 
 ### 🚀 My data projects: 
 
-* 🏀 [nba_pipeline](https://github.com/Lucio-Calabro) - End-to-end data pipeline that extracts live NBA statistics, handles data quality and idempotency, and orchestrates workflows using AWS.
+* 🏀 [nba_pipeline](https://github.com/Lucio-Calabro/nba_pipeline_aws) - End-to-end data pipeline that extracts live NBA statistics, handles data quality and idempotency, and orchestrates workflows using AWS.
 * 💾 [habit_tracker_etl](https://github.com/Lucio-Calabro/habit-tracker-etl) - Automated ETL solution designed to ingest personal habit logs from a custom Telegram bot, transforming and storing metrics for behavioral analysis.
